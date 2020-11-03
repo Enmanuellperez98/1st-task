@@ -1,0 +1,266 @@
+[
+    {
+      "province": "Azua",
+      "capital": "Azua de Compostela",
+      "area[2]\n(km²)": "2,531.77",
+      "population": "214,311",
+      "density": "84.6",
+      "map": "1"
+    },
+    {
+      "province": "Baoruco",
+      "capital": "Neiba",
+      "area[2]\n(km²)": "1,282.23",
+      "population": "97,313",
+      "density": "75.9",
+      "map": "2"
+    },
+    {
+      "province": "Barahona",
+      "capital": "Santa Cruz de Barahona",
+      "area[2]\n(km²)": "1,739.38",
+      "population": "187,105",
+      "density": "107.6",
+      "map": "3"
+    },
+    {
+      "province": "Dajabón",
+      "capital": "Dajabón",
+      "area[2]\n(km²)": "1,020.73",
+      "population": "63,955",
+      "density": "62.7",
+      "map": "4"
+    },
+    {
+      "province": "Distrito Nacional",
+      "capital": "Santo Domingo de Guzmán",
+      "area[2]\n(km²)": "104.44",
+      "population": "965,040",
+      "density": "9,240.1",
+      "map": "D.N."
+    },
+    {
+      "province": "Duarte",
+      "capital": "San Francisco de Macorís",
+      "area[2]\n(km²)": "1,605.35",
+      "population": "289,574",
+      "density": "180.4",
+      "map": "5"
+    },
+    {
+      "province": "Elías Piña",
+      "capital": "Comendador",
+      "area[2]\n(km²)": "1,426.20",
+      "population": "63,029",
+      "density": "44.2",
+      "map": "6"
+    },
+    {
+      "province": "El Seibo",
+      "capital": "Santa Cruz del Seibo",
+      "area[2]\n(km²)": "1,786.80",
+      "population": "87,680",
+      "density": "49.1",
+      "map": "7"
+    },
+    {
+      "province": "Espaillat",
+      "capital": "Moca",
+      "area[2]\n(km²)": "838.62",
+      "population": "231,938",
+      "density": "276.6",
+      "map": "8"
+    },
+    {
+      "province": "Hato Mayor",
+      "capital": "Hato Mayor del Rey",
+      "area[2]\n(km²)": "1,329.29",
+      "population": "85,017",
+      "density": "64.0",
+      "map": "9"
+    },
+    {
+      "province": "Hermanas Mirabal",
+      "capital": "Salcedo",
+      "area[2]\n(km²)": "440.43",
+      "population": "92,193",
+      "density": "209.3",
+      "map": "21"
+    },
+    {
+      "province": "Independencia",
+      "capital": "Jimaní",
+      "area[2]\n(km²)": "2,006.44",
+      "population": "52,589",
+      "density": "26.2",
+      "map": "10"
+    },
+    {
+      "province": "La Altagracia",
+      "capital": "Salvaleón de Higüey",
+      "area[2]\n(km²)": "3,010.34",
+      "population": "273,210",
+      "density": "90.8",
+      "map": "11"
+    },
+    {
+      "province": "La Romana",
+      "capital": "La Romana",
+      "area[2]\n(km²)": "653.95",
+      "population": "245,433",
+      "density": "375.3",
+      "map": "12"
+    },
+    {
+      "province": "La Vega",
+      "capital": "Concepción de la Vega",
+      "area[2]\n(km²)": "2,287.24",
+      "population": "394,205",
+      "density": "172.3",
+      "map": "13"
+    },
+    {
+      "province": "María Trinidad Sánchez",
+      "capital": "Nagua",
+      "area[2]\n(km²)": "1,271.71",
+      "population": "140,925",
+      "density": "110.8",
+      "map": "14"
+    },
+    {
+      "province": "Monseñor Nouel",
+      "capital": "Bonao",
+      "area[2]\n(km²)": "992.39",
+      "population": "165,224",
+      "density": "166.5",
+      "map": "15"
+    },
+    {
+      "province": "Monte Cristi",
+      "capital": "San Fernando de Monte Cristi",
+      "area[2]\n(km²)": "1,924.35",
+      "population": "109,607",
+      "density": "57.0",
+      "map": "16"
+    },
+    {
+      "province": "Monte Plata",
+      "capital": "Monte Plata",
+      "area[2]\n(km²)": "2,632.14",
+      "population": "185,956",
+      "density": "70.6",
+      "map": "17"
+    },
+    {
+      "province": "Pedernales",
+      "capital": "Pedernales",
+      "area[2]\n(km²)": "2,074.53",
+      "population": "31,587",
+      "density": "15.2",
+      "map": "18"
+    },
+    {
+      "province": "Peravia",
+      "capital": "Baní",
+      "area[2]\n(km²)": "792.33",
+      "population": "184,344",
+      "density": "232.7",
+      "map": "19"
+    },
+    {
+      "province": "Puerto Plata",
+      "capital": "San Felipe de Puerto Plata",
+      "area[2]\n(km²)": "1,852.90",
+      "population": "321,597",
+      "density": "173.6",
+      "map": "20"
+    },
+    {
+      "province": "Samaná",
+      "capital": "Santa Bárbara de Samaná",
+      "area[2]\n(km²)": "853.74",
+      "population": "101,494",
+      "density": "118.9",
+      "map": "22"
+    },
+    {
+      "province": "Sánchez Ramírez",
+      "capital": "Cotuí",
+      "area[2]\n(km²)": "1,196.13",
+      "population": "151,392",
+      "density": "126.6",
+      "map": "23"
+    },
+    {
+      "province": "San Cristóbal",
+      "capital": "San Cristóbal",
+      "area[2]\n(km²)": "1,265.77",
+      "population": "569,930",
+      "density": "450.3",
+      "map": "24"
+    },
+    {
+      "province": "San José de Ocoa",
+      "capital": "San José de Ocoa",
+      "area[2]\n(km²)": "855.40",
+      "population": "59,544",
+      "density": "69.6",
+      "map": "25"
+    },
+    {
+      "province": "San Juan",
+      "capital": "San Juan de la Maguana",
+      "area[2]\n(km²)": "3,569.39",
+      "population": "232,333",
+      "density": "65.1",
+      "map": "26"
+    },
+    {
+      "province": "San Pedro de Macorís",
+      "capital": "San Pedro de Macorís",
+      "area[2]\n(km²)": "1,255.46",
+      "population": "290,458",
+      "density": "231.4",
+      "map": "27"
+    },
+    {
+      "province": "Santiago",
+      "capital": "Santiago de los Caballeros",
+      "area[2]\n(km²)": "2,836.51",
+      "population": "963,422",
+      "density": "339.7",
+      "map": "28"
+    },
+    {
+      "province": "Santiago Rodríguez",
+      "capital": "San Ignacio de Sabaneta",
+      "area[2]\n(km²)": "1,111.14",
+      "population": "57,476",
+      "density": "51.7",
+      "map": "29"
+    },
+    {
+      "province": "Santo Domingo",
+      "capital": "Santo Domingo Este",
+      "area[2]\n(km²)": "1,296.35",
+      "population": "2,374,370",
+      "density": "1,831.6",
+      "map": "30"
+    },
+    {
+      "province": "Valverde",
+      "capital": "Mao",
+      "area[2]\n(km²)": "823.38",
+      "population": "163,030",
+      "density": "198.0",
+      "map": "31"
+    },
+    {
+      "province": "Total",
+      "capital": "",
+      "area[2]\n(km²)": "48,666.83",
+      "population": "9,445,281",
+      "density": "194.1",
+      "map": "-"
+    }
+  ]
